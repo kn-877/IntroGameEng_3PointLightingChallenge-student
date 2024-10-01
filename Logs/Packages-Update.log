@@ -17,39 +17,25 @@ The following packages were updated:
   com.unity.textmeshpro from version 2.0.0 to 2.0.1
   com.unity.timeline from version 0.0.0-builtin to 1.1.0
 
-=== Wed Sep  9 09:30:14 2020
+=== Fri Oct  1 12:30:27 2021
 
 Packages were changed.
 Update Mode: updateDependencies
 
 The following packages were added:
-  com.unity.ide.visualstudio@2.0.2
+  com.unity.ide.visualstudio@2.0.9
 The following packages were updated:
-  com.unity.collab-proxy from version 1.2.16 to 1.3.9
-  com.unity.ide.rider from version 1.0.8 to 1.2.1
-  com.unity.ide.vscode from version 1.0.7 to 1.2.1
-  com.unity.test-framework from version 1.0.13 to 1.1.16
-  com.unity.textmeshpro from version 2.0.1 to 3.0.1
-  com.unity.timeline from version 1.1.0 to 1.2.6
+  com.unity.collab-proxy from version 1.2.16 to 1.5.7
+  com.unity.ext.nunit from version 1.0.0 to 1.0.6
+  com.unity.ide.rider from version 1.0.8 to 2.0.7
+  com.unity.ide.vscode from version 1.0.7 to 1.2.3
+  com.unity.test-framework from version 1.0.13 to 1.1.27
+  com.unity.textmeshpro from version 2.0.1 to 3.0.6
+  com.unity.timeline from version 1.1.0 to 1.4.8
 The following packages were removed:
   com.unity.package-manager-ui@2.2.0
 
-=== Fri Oct  1 12:30:45 2021
-
-Packages were changed.
-Update Mode: updateDependencies
-
-The following packages were updated:
-  com.unity.collab-proxy from version 1.3.9 to 1.5.7
-  com.unity.ext.nunit from version 1.0.0 to 1.0.6
-  com.unity.ide.rider from version 1.2.1 to 2.0.7
-  com.unity.ide.visualstudio from version 2.0.2 to 2.0.9
-  com.unity.ide.vscode from version 1.2.1 to 1.2.3
-  com.unity.test-framework from version 1.1.16 to 1.1.27
-  com.unity.textmeshpro from version 3.0.1 to 3.0.6
-  com.unity.timeline from version 1.2.6 to 1.4.8
-
-=== Fri Sep  9 15:19:53 2022
+=== Fri Sep  9 15:22:40 2022
 
 Packages were changed.
 Update Mode: updateDependencies
@@ -62,7 +48,7 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.27 to 1.1.31
   com.unity.timeline from version 1.4.8 to 1.6.4
 
-=== Mon Jun 26 10:02:57 2023
+=== Mon Jun 26 10:02:54 2023
 
 Packages were changed.
 Update Mode: updateDependencies
@@ -76,7 +62,7 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.31 to 1.1.33
   com.unity.timeline from version 1.6.4 to 1.7.4
 
-=== Tue Sep 19 10:55:08 2023
+=== Tue Sep 19 10:55:13 2023
 
 Packages were changed.
 Update Mode: updateDependencies
@@ -86,3 +72,15 @@ The following packages were updated:
   com.unity.collab-proxy from version 2.0.4 to 2.0.5
   com.unity.ide.rider from version 3.0.21 to 3.0.24
   com.unity.timeline from version 1.7.4 to 1.7.5
+
+=== Wed Sep 25 09:03:28 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ai.navigation from version 1.1.4 to 1.1.5
+  com.unity.collab-proxy from version 2.0.5 to 2.4.3
+  com.unity.ide.rider from version 3.0.24 to 3.0.31
+  com.unity.ide.visualstudio from version 2.0.18 to 2.0.22
+  com.unity.timeline from version 1.7.5 to 1.7.6
